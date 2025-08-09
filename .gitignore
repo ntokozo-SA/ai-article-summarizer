@@ -1,0 +1,25 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Node/JS
+extension/node_modules/
+extension/dist/
+*.log
+
+# OS/Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local DB / artifacts
+backend/usage_tracker.db
+*.zip 

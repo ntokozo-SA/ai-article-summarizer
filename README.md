@@ -174,7 +174,7 @@ git push heroku main
 ## 👨‍💻 Author
 
 Ntokozo Ngakane
-- GitHub: ntokozo-sa(https://github.com/yourusername)
+- GitHub: ntokozo-sa(https://github.com/ntokozo-sa)
 - LinkedIn: Ntokozo Ngakane(https://linkedin.com/in/yourprofile)
 
 
@@ -187,7 +187,7 @@ Ntokozo Ngakane
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-article-summarizer/issues)
+- **Issues**: [GitHub Issues](https://github.com/ntokozo-sa/ai-article-summarizer/issues)
 - **Email**: ntokozobuthelezi205@gmail.com
 
 ---
